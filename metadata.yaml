@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '38348'
     url: http://www.gutenberg.org/2009/agents/38348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36556#The-Complete-Works-of-Josh-Billings
 gutenberg_issued: '2011-06-29'
 gutenberg_type: Text
 identifiers:
